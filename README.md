@@ -19,7 +19,7 @@
 
   - v1.18.2
 
-## [k8s.gcr.io/kube-proxy](images/kube-proxy/Dockerfile)
+## [`k8s.gcr.io/kube-proxy`](images/kube-proxy/Dockerfile)
 
   > `registry.cn-hangzhou.aliyuncs.com/gcr_k8s_containers/kube-proxy`
   
@@ -31,7 +31,7 @@
 
   - 3.5
 
-## [k8s.gcr.io/etcd](images/etcd/Dockerfile)
+## [`k8s.gcr.io/etcd`](images/etcd/Dockerfile)
 
   > `registry.cn-hangzhou.aliyuncs.com/gcr_k8s_containers/etcd`
 
@@ -42,7 +42,11 @@
 
   - 1.3.1
 
-## [k8s.gcr.io/kubernetes-dashboard-amd64](images/k8s-dashboard/Dockerfile)
+## [`k8s.gcr.io/kubernetes-dashboard-amd64`](images/k8s-dashboard/Dockerfile)
+
+  > `registry.cn-hangzhou.aliyuncs.com/gcr_k8s_containers/k8s-dashboard`
+
+  - v1.10.0
 
 ## [`quay.io/coreos/flannel`](images/coreos-flannel/amd64/Dockerfile)
 
@@ -50,15 +54,18 @@
 
   - v0.12.0
 
-## [gcr.io/kaniko-project/executor](images/kaniko-project/executor/Dockerfile)
-
-
 ## [`k8s.gcr.io/kube-cross`](images/kube-cross/Dockerfile)
 
   > `registry.cn-hangzhou.aliyuncs.com/gcr_k8s_containers/kube-cross`
 
   - v1.13.6-1
 
+
+## [`gcr.io/kaniko-project/executor`](images/kaniko-project/executor/Dockerfile)
+
+  > `registry.cn-hangzhou.aliyuncs.com/gcr_k8s_containers/kaniko_project-executor`
+  
+  
 
 ## [`k8s.gcr.io/ingress-nginx/controller`](images/ingress-nginx/Dockerfile)
 
