@@ -71,4 +71,4 @@
 
   > `registry.cn-hangzhou.aliyuncs.com/gcr_k8s_containers/ingress-nginx-controller`
 
-  - v1.0.0
+  - v1.0.3
