@@ -36,6 +36,7 @@
 ## [`k8s.gcr.io/kube-cross`](images/kube-cross/Dockerfile)
 
   - `registry.cn-hangzhou.aliyuncs.com/gcr_k8s_containers/kube-cross:v1.13.6-1`
+  - `registry.cn-hangzhou.aliyuncs.com/gcr_k8s_containers/kube-cross:v1.24.0-go1.17.5-bullseye.0`
 
 
 ## [`k8s.gcr.io/kubernetes-dashboard-amd64`](images/k8s-dashboard/Dockerfile)
